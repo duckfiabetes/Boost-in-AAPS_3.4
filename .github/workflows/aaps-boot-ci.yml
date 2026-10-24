@@ -1,4 +1,4 @@
-name: AAPS CI
+name: AAPS CI boost
 
 on:
   workflow_dispatch:
